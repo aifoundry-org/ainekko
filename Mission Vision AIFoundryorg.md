@@ -12,21 +12,21 @@ Our long-term vision is to help the industry evolve to a structure where model t
 
 Therefore, we foster, build and support projects which can become engineering building blocks of such training and deployment systems.
 
-We support practitioners willing to benefit from AI in their work and life, specifically models and their fine-tuning and deployment, such as:
+Our community engages practitioners willing to benefit from AI in their work and life, specifically in models fine-tuning and deployment, such as:
 
 - Software engineers willing to use AI but still lost in its complexity
 
 - Data engineers handling data for models training, fine-tuning and deployment in different ways
 
-- Researchers working on the latest techniques of models fine-tuning, such as continuous training
+- Researchers and reasearch labs working on the latest techniques of models fine-tuning, such as continuous training
 
 - Hardware companies contributors working on designing software for better chips utilization
 
-- CTOs defining their companies technical strategy and roadmaps
+- CTOs defining their companies technical strategy and caring about data privac and models deployment control and composability
 
-- Strategy and Transformation leads designing business values and therefore future of their companies
-
-- AI Investors focused at deep tech open source AI start-ups 
+- Strategy and Transformation leads designing their companies 'whats' and 'hows'
+  
+- Investors focused on deep tech open source AI-backed products
 
 # Our Values
 
