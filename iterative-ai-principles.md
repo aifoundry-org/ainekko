@@ -18,6 +18,13 @@ In this draft I'm using "iterative" but I'm not sure that's right either.
 
 I suspect we need a different word to describe this. I just don't know what it is yet. Suggestions & edits welcome.
 
+## Basic assumptions
+While the field of AI is ripe with great products, the devil is always in the details AKA End User License Agreements (fun fact: some of the EULAs are event [incompatible with the definition of Open Source](https://www.apache.org/legal/generative-tooling.html)). Just like Open Source licenses, EULAs are a form of a lincense agreement that exists to protect the balance of rights between owners/authors of the AI system and its users. Our core belief (and the source of a lot of the following principles) is that whatever the agreement, the [Four Freedoms of Open Source Software](https://www.gnu.org/philosophy/free-sw.html.en#clarifying) must be protected and fostered. More specifically:
+* The freedom to use AI system as you wish
+* The freedom to study all the source artifacts (not just source code!) and make changes
+* The freedom to publish (including publishing modifications to existing systems)
+* The freedom to collaborate with others and build on top of each other's work
+
 ## Principles
 The intent behind these principles is to create AI systems that can be iteratively developed and engender trust. To that end:
 * Optimize for iterative change, including removal. (An implication of this principle is working in layers.)
